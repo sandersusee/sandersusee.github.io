@@ -6,11 +6,15 @@ body.general {
     background: #EFEFEF;
 }
 body.index {
+    margin: 60px auto;
+    font-weight: bold;
+    width: 70%;
+    color: #8A8A8A;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: url(indexbackground.jpg) no-repeat center center fixed;
+    background: "indexbackground.jpg" no-repeat center center fixed;
 }
     
 nav ul, footer ul {
