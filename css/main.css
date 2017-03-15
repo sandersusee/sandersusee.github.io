@@ -10,7 +10,7 @@ body.index {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: "indexbackground.jpg" no-repeat center center fixed;
+    background: url(indexbackground.jpg) no-repeat center center fixed;
 }
     
 nav ul, footer ul {
