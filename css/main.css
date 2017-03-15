@@ -10,7 +10,7 @@ body.index {
     font-weight: bold;
     width: 70%;
     color: #8A8A8A;
-    background: #0F0F0F;
+    background-image "indexbackground.JPG";
 }
     
 nav ul, footer ul {
