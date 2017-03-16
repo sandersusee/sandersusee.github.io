@@ -8,3 +8,4 @@
 
  --3/15/17--
  Expanded the collection of files and linked them, spent a lot of time on travel.html
+ Added the photo background for the index
