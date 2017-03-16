@@ -10,11 +10,6 @@ body.index {
     font-weight: bold;
     width: 70%;
     color: #8A8A8A;
-    background-image: "indexbackground.JPG" no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;;
 }
     
 nav ul, footer ul {
@@ -33,7 +28,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: blue;
+    color: #CAEBF2;
 }
 h1 {
     font-size: 3em;
