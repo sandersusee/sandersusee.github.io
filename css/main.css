@@ -10,6 +10,7 @@ body.index {
     font-weight: bold;
     width: 70%;
     color: #8A8A8A;
+    background-image: url("indexbackround.JPG");
     background-repeat: no-repeat;
 }
     
