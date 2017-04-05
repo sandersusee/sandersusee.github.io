@@ -18,7 +18,7 @@ body.index {
 }    
 nav ul, footer ul {
     font-family: 'Trebuchet MS', 'Helvetica', 'sans-serif';
-    padding: 20px;
+    padding: 2px;
     list-style: none;
     font-weight: bold;
 }
