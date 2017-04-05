@@ -56,8 +56,8 @@ footer {
     width: 100%;
     height: 40px;
     background-color: #8A8A8A;
-    padding: 10px;
-    font-size: 1em;
+    padding: 5px;
+    font-size: 1.2em;
 }
 
 ul.posts { 
@@ -67,4 +67,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    padding: 10px;
 }
