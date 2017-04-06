@@ -68,4 +68,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
     padding: 20px;
+    left: 20;
 }
